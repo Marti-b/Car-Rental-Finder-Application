@@ -1,0 +1,27 @@
+C:\Users\marti\Documents\Github\Assigment_Princh\Car-Rental-Finder-Application\Car Rental Finder\Car Rental Finder\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\marti\Documents\Github\Assigment_Princh\Car-Rental-Finder-Application\Car Rental Finder\Car Rental Finder\bin\Debug\net6.0\appsettings.json
+C:\Users\marti\Documents\Github\Assigment_Princh\Car-Rental-Finder-Application\Car Rental Finder\Car Rental Finder\bin\Debug\net6.0\Car Rental Finder.exe
+C:\Users\marti\Documents\Github\Assigment_Princh\Car-Rental-Finder-Application\Car Rental Finder\Car Rental Finder\bin\Debug\net6.0\Car Rental Finder.deps.json
+C:\Users\marti\Documents\Github\Assigment_Princh\Car-Rental-Finder-Application\Car Rental Finder\Car Rental Finder\bin\Debug\net6.0\Car Rental Finder.runtimeconfig.json
+C:\Users\marti\Documents\Github\Assigment_Princh\Car-Rental-Finder-Application\Car Rental Finder\Car Rental Finder\bin\Debug\net6.0\Car Rental Finder.dll
+C:\Users\marti\Documents\Github\Assigment_Princh\Car-Rental-Finder-Application\Car Rental Finder\Car Rental Finder\bin\Debug\net6.0\Car Rental Finder.pdb
+C:\Users\marti\Documents\Github\Assigment_Princh\Car-Rental-Finder-Application\Car Rental Finder\Car Rental Finder\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\marti\Documents\Github\Assigment_Princh\Car-Rental-Finder-Application\Car Rental Finder\Car Rental Finder\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\marti\Documents\Github\Assigment_Princh\Car-Rental-Finder-Application\Car Rental Finder\Car Rental Finder\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\marti\Documents\Github\Assigment_Princh\Car-Rental-Finder-Application\Car Rental Finder\Car Rental Finder\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\marti\Documents\Github\Assigment_Princh\Car-Rental-Finder-Application\Car Rental Finder\Car Rental Finder\obj\Debug\net6.0\Car Rental Finder.csproj.AssemblyReference.cache
+C:\Users\marti\Documents\Github\Assigment_Princh\Car-Rental-Finder-Application\Car Rental Finder\Car Rental Finder\obj\Debug\net6.0\Car Rental Finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Documents\Github\Assigment_Princh\Car-Rental-Finder-Application\Car Rental Finder\Car Rental Finder\obj\Debug\net6.0\Car Rental Finder.AssemblyInfoInputs.cache
+C:\Users\marti\Documents\Github\Assigment_Princh\Car-Rental-Finder-Application\Car Rental Finder\Car Rental Finder\obj\Debug\net6.0\Car Rental Finder.AssemblyInfo.cs
+C:\Users\marti\Documents\Github\Assigment_Princh\Car-Rental-Finder-Application\Car Rental Finder\Car Rental Finder\obj\Debug\net6.0\Car Rental Finder.csproj.CoreCompileInputs.cache
+C:\Users\marti\Documents\Github\Assigment_Princh\Car-Rental-Finder-Application\Car Rental Finder\Car Rental Finder\obj\Debug\net6.0\Car Rental Finder.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marti\Documents\Github\Assigment_Princh\Car-Rental-Finder-Application\Car Rental Finder\Car Rental Finder\obj\Debug\net6.0\Car Rental Finder.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marti\Documents\Github\Assigment_Princh\Car-Rental-Finder-Application\Car Rental Finder\Car Rental Finder\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\marti\Documents\Github\Assigment_Princh\Car-Rental-Finder-Application\Car Rental Finder\Car Rental Finder\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\marti\Documents\Github\Assigment_Princh\Car-Rental-Finder-Application\Car Rental Finder\Car Rental Finder\obj\Debug\net6.0\scopedcss\bundle\Car Rental Finder.styles.css
+C:\Users\marti\Documents\Github\Assigment_Princh\Car-Rental-Finder-Application\Car Rental Finder\Car Rental Finder\obj\Debug\net6.0\Car Rental Finder.csproj.CopyComplete
+C:\Users\marti\Documents\Github\Assigment_Princh\Car-Rental-Finder-Application\Car Rental Finder\Car Rental Finder\obj\Debug\net6.0\Car Rental Finder.dll
+C:\Users\marti\Documents\Github\Assigment_Princh\Car-Rental-Finder-Application\Car Rental Finder\Car Rental Finder\obj\Debug\net6.0\refint\Car Rental Finder.dll
+C:\Users\marti\Documents\Github\Assigment_Princh\Car-Rental-Finder-Application\Car Rental Finder\Car Rental Finder\obj\Debug\net6.0\Car Rental Finder.pdb
+C:\Users\marti\Documents\Github\Assigment_Princh\Car-Rental-Finder-Application\Car Rental Finder\Car Rental Finder\obj\Debug\net6.0\Car Rental Finder.genruntimeconfig.cache
+C:\Users\marti\Documents\Github\Assigment_Princh\Car-Rental-Finder-Application\Car Rental Finder\Car Rental Finder\obj\Debug\net6.0\ref\Car Rental Finder.dll
