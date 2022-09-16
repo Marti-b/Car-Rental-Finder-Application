@@ -1,9 +1,9 @@
-﻿// using Car_Rental_Finder.DataAccessLayer;
+﻿// using Car_Rental_Finder.CarRentalFinder.DataAccessLayer;
 // using Car_Rental_Finder.Models;
 // using Microsoft.AspNetCore.Http;
 // using Microsoft.AspNetCore.Mvc;
 // using System.Linq;
-// using Services.Interfaces;
+// using CarRentalFinder.Services.Interfaces;
 //
 // namespace Car_Rental_Finder.Controllers
 // {

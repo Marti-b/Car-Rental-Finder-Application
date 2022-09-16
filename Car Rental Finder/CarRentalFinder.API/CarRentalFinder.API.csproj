@@ -18,8 +18,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj" />
-    <ProjectReference Include="..\Services\Services.csproj" />
+    <ProjectReference Include="..\CarRentalFinder.DataAccessLayer\CarRentalFinder.DataAccessLayer.csproj" />
+    <ProjectReference Include="..\CarRentalFinder.Services\CarRentalFinder.Services.csproj" />
   </ItemGroup>
 
 </Project>

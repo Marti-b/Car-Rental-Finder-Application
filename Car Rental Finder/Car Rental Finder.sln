@@ -5,11 +5,11 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentalFinder.API", "CarRentalFinder.API\CarRentalFinder.API.csproj", "{7BA8E96C-8E0B-4D91-A01E-4B6B16544AFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{7FAF6FD5-1993-4C37-92DB-78AB2A6805BC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentalFinder.DataAccessLayer", "CarRentalFinder.DataAccessLayer\CarRentalFinder.DataAccessLayer.csproj", "{7FAF6FD5-1993-4C37-92DB-78AB2A6805BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositories", "Repositories\Repositories.csproj", "{4D210BDA-B257-481E-B282-BB5E6AF2CF93}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentalFinder.Repositories", "CarRentalFinder.Repositories\CarRentalFinder.Repositories.csproj", "{4D210BDA-B257-481E-B282-BB5E6AF2CF93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{C7611E1C-1E03-44C2-87FB-9D245CE46A48}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentalFinder.Services", "CarRentalFinder.Services\CarRentalFinder.Services.csproj", "{C7611E1C-1E03-44C2-87FB-9D245CE46A48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
