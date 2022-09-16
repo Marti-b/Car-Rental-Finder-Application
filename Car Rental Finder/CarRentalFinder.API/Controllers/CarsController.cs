@@ -33,13 +33,8 @@ namespace Car_Rental_Finder.Controllers
         [HttpPost]
         public IActionResult Post([FromBody] Car car)
         {
-            // if (car == null)
-            // {
-            //     return NoContent();
-            // }
-            _carsContext.Cars.Add(car);
-            _carsContext.SaveChanges();
-            return StatusCode(StatusCodes.Status201Created);
+            _carService.AddCar(car);
+            return Created("/", car);
         }
     }
 }

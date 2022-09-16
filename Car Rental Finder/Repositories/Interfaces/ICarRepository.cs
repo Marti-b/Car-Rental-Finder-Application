@@ -10,5 +10,7 @@ public interface ICarRepository
     /// <returns> Returns a list of entites from the database</returns>
     List<Car> GetAllCars();
     
+    void AddCar(Car car);
 
+    Car GetCarById(int id);
 }

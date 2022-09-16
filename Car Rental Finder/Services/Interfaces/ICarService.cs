@@ -9,4 +9,8 @@ public interface ICarService
     /// </summary>
     /// <returns> Returns list of cars from the repository </returns>
     List<Car> GetAllCars();
+
+    void AddCar(Car car);
+
+    int CalculateCost(int id);
 }

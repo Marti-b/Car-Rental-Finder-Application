@@ -1,14 +1,13 @@
 ﻿using Car_Rental_Finder.Models;
 using Repositories.Interfaces;
-using Services.Interfaces;
 
-namespace Services;
+namespace Services.Interfaces;
 
-public class CarService : ICarService
+public class SmartLRService : ICarService
 {
     private readonly ICarRepository _carRepository;
 
-    public CarService( ICarRepository carRepository)
+    public SmartLRService(ICarRepository carRepository)
     {
         _carRepository = carRepository;
     }
@@ -26,6 +25,10 @@ public class CarService : ICarService
     public int CalculateCost(int id)
     {
         var car = _carRepository.GetCarById(id);
-        return car.Price;
+        
+        // apply different calculation price based on weight, color and number of horsepower
+        var dailyPrice = car.Price;
+            
+        return dailyPrice;
     }
 }

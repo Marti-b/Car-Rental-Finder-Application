@@ -13,8 +13,19 @@ public class CarRepository : ICarRepository
         Context = context;
     }
     
-    public List<Car> GetAllCars( )
+    public List<Car> GetAllCars()
     {
         return Context.Cars.ToList();
+    }
+
+    public void AddCar(Car car)
+    {
+        Context.Add(car);
+        Context.SaveChanges();
+    }
+
+    public Car? GetCarById(int id)
+    {
+        return Context.Cars.FirstOrDefault(c => c.Id == id);
     }
 }
