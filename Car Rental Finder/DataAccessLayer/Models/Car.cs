@@ -9,6 +9,7 @@ namespace Car_Rental_Finder.Models
         public string Brand { get; set; }
         public string Color { get; set; }
         public string ModelName { get; set; }
+        [Required]
         public int HorsePower { get; set; }
         [Required]
         public int Weight { get; set; }

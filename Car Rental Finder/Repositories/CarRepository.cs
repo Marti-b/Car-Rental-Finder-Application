@@ -28,4 +28,10 @@ public class CarRepository : ICarRepository
     {
         return Context.Cars.FirstOrDefault(c => c.Id == id);
     }
+
+    public List<Car> GetCarsByBrandName(string brandName)
+    {
+        var searchResultList = Context.Cars.Where(c => c.Brand.Contains(brandName)).ToList();
+        return searchResultList;
+    }
 }

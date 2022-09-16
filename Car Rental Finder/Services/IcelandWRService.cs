@@ -4,7 +4,7 @@ using Services.Interfaces;
 
 namespace Services;
 
-public class IcelandWRService : ICarService
+public class IcelandWRService : IIcelandWRService
 {
     private readonly ICarRepository _carRepository;
     
@@ -22,13 +22,24 @@ public class IcelandWRService : ICarService
         _carRepository.AddCar(car);
     }
 
-    public int CalculateCost(int id)
+    public int CalculateDailyCost(int carId)
     {
-        var car = _carRepository.GetCarById(id);
+        var car = GetCarById(carId);
         
         // apply different calculation price based on temperature and wind
         var dailyPrice = car.Price;
             
         return dailyPrice;
+    }
+
+    public Car GetCarById(int id)
+    {
+        var car = _carRepository.GetCarById(id);
+        return car;
+    }
+
+    public List<Car> GetCarsByBrandName(string brandName)
+    {
+        return _carRepository.GetCarsByBrandName(brandName);
     }
 }

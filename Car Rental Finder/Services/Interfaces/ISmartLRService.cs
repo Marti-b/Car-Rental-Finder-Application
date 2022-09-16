@@ -2,7 +2,7 @@
 
 namespace Services.Interfaces;
 
-public interface ICarService
+public interface ISmartLRService
 {
     /// <summary>
     ///  Gets all the cars from the repository
@@ -12,5 +12,10 @@ public interface ICarService
 
     void AddCar(Car car);
 
-    int CalculateCost(int id);
+    int CalculateDailyCost(int carId);
+    
+    Car GetCarById(int id);
+
+    List<Car> GetCarsByBrandName(string brandName);
+
 }

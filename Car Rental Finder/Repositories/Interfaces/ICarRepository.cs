@@ -13,4 +13,6 @@ public interface ICarRepository
     void AddCar(Car car);
 
     Car GetCarById(int id);
+
+    List<Car> GetCarsByBrandName(string brandName);
 }
